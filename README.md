@@ -9,7 +9,6 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **BRAC University · Department of Electrical and Electronic Engineering**
-**EEE384 – Electrical Service Design · Spring 2026 · Section 01**
 
 <p align="center">
   <img src="docs/figures/site_interior_ceiling.jpg" width="760" alt="Ceiling of the LASSET Lab showing the projector mount, suspended LED luminaires, ceiling fan and AC grille"/>
@@ -343,7 +342,7 @@ docs/figures/              site photos, CAD layouts, connection diagrams, charts
 
 ## 10. Authors, references, licence
 
-**Contributors** (EEE384 Section 01, submitted 11 May 2026)
+**Contributors**
 
 | Member | Contribution (from the report) |
 |--------|--------------------------------|
