@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Electrical Service Design of the LASSET Laboratory (Room 12B-16L)"
+type: software
+authors:
+  - given-names: "Enamul Karim"
+    family-names: "Ovi"
+  - given-names: "Intisar"
+    family-names: "Ahmad"
+  - given-names: "MD Nabil"
+    family-names: "Haque"
+  - given-names: "Ziya Mohammad Sayef"
+    family-names: "Ullah"
+  - given-names: "Ahmed Sajid"
+    family-names: "Rezwan"
+repository-code: "https://github.com/intisar-int/lab-electrical-layout-bnbc"
+license: MIT
+date-released: 2026-05-11
+abstract: "Three AutoCAD electrical layouts for a university laboratory, BNBC 2020 load calculations, and an independent protection-coordination audit."

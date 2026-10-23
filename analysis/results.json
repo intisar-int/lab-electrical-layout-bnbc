@@ -1,0 +1,269 @@
+{
+  "coordination": {
+    "base": [
+      {
+        "i_b": 1.3043478260869563,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 21.739130434782606,
+        "circuit": "Ck-1"
+      },
+      {
+        "i_b": 0.751304347826087,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 12.521739130434783,
+        "circuit": "Ck-2"
+      },
+      {
+        "i_b": 0.751304347826087,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 12.521739130434783,
+        "circuit": "Ck-3"
+      },
+      {
+        "i_b": 0.23478260869565218,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 3.9130434782608696,
+        "circuit": "Ck-4"
+      },
+      {
+        "i_b": 6.260869565217392,
+        "i_n": 10,
+        "i_z": 22,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 62.608695652173914,
+        "circuit": "Ck-5"
+      },
+      {
+        "i_b": 10.511508951406649,
+        "i_n": 16,
+        "i_z": 22,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 65.69693094629156,
+        "circuit": "Ck-6"
+      },
+      {
+        "i_b": 19.814117647058822,
+        "i_n": 40,
+        "i_z": 30,
+        "ib_le_in": true,
+        "in_le_iz": false,
+        "loading_pct": 49.535294117647055,
+        "circuit": "Main"
+      }
+    ],
+    "approach1": [
+      {
+        "i_b": 1.502608695652174,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 25.043478260869566,
+        "circuit": "CKT-1"
+      },
+      {
+        "i_b": 15.217391304347826,
+        "i_n": 16,
+        "i_z": 22,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 95.1086956521739,
+        "circuit": "CKT-2"
+      },
+      {
+        "i_b": 10.511508951406649,
+        "i_n": 16,
+        "i_z": 22,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 65.69693094629156,
+        "circuit": "CKT-3"
+      },
+      {
+        "i_b": 27.23150895140665,
+        "i_n": 32,
+        "i_z": 30,
+        "ib_le_in": true,
+        "in_le_iz": false,
+        "loading_pct": 85.09846547314578,
+        "circuit": "Main"
+      }
+    ],
+    "approach2": [
+      {
+        "i_b": 0.5008695652173912,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 8.347826086956522,
+        "circuit": "CKT-1"
+      },
+      {
+        "i_b": 0.751304347826087,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 12.521739130434783,
+        "circuit": "CKT-2"
+      },
+      {
+        "i_b": 0.8695652173913043,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 14.492753623188406,
+        "circuit": "CKT-3"
+      },
+      {
+        "i_b": 0.5008695652173912,
+        "i_n": 6,
+        "i_z": 15,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 8.347826086956522,
+        "circuit": "CKT-4"
+      },
+      {
+        "i_b": 9.391304347826086,
+        "i_n": 16,
+        "i_z": 22,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 58.69565217391304,
+        "circuit": "CKT-5"
+      },
+      {
+        "i_b": 10.511508951406649,
+        "i_n": 16,
+        "i_z": 22,
+        "ib_le_in": true,
+        "in_le_iz": true,
+        "loading_pct": 65.69693094629156,
+        "circuit": "CKT-6"
+      },
+      {
+        "i_b": 22.52542199488491,
+        "i_n": 32,
+        "i_z": 30,
+        "ib_le_in": true,
+        "in_le_iz": false,
+        "loading_pct": 70.39194373401534,
+        "circuit": "Main"
+      }
+    ]
+  },
+  "max_demand": {
+    "base": {
+      "connected_w": 3508,
+      "max_demand_w": 3223.0,
+      "current_a": 14.013043478260869,
+      "by_cat": {
+        "general": 1140.0,
+        "lighting": 333.0,
+        "heavy": 1750.0
+      }
+    },
+    "approach1": {
+      "connected_w": 4663,
+      "max_demand_w": 4138.0,
+      "current_a": 17.991304347826087,
+      "by_cat": {
+        "lighting": 288.0,
+        "general": 2100.0,
+        "heavy": 1750.0
+      }
+    },
+    "approach2": {
+      "connected_w": 4036,
+      "max_demand_w": 3646.0,
+      "current_a": 15.852173913043478,
+      "by_cat": {
+        "lighting": 336.0,
+        "general": 1560.0,
+        "heavy": 1750.0
+      }
+    }
+  },
+  "main_options": {
+    "design_current_a": 27.23150895140665,
+    "demand_based_design_current_a": 21.589565217391304,
+    "iz_4mm2_report_a": 30
+  },
+  "max_run_m": {
+    "CKT-1": {
+      "i_design_a": 1.502608695652174,
+      "cable_mm2": 1.5,
+      "L_3pct_m": 158.589753478254,
+      "L_5pct_m": 264.31625579709004
+    },
+    "CKT-2": {
+      "i_design_a": 15.217391304347826,
+      "cable_mm2": 2.5,
+      "L_3pct_m": 25.57101551976956,
+      "L_5pct_m": 42.61835919961594
+    },
+    "CKT-3": {
+      "i_design_a": 10.511508951406649,
+      "cable_mm2": 2.5,
+      "L_3pct_m": 37.018866750031364,
+      "L_5pct_m": 61.69811125005228
+    },
+    "Main": {
+      "i_design_a": 27.23150895140665,
+      "cable_mm2": 4,
+      "L_3pct_m": 22.96855954510907,
+      "L_5pct_m": 38.28093257518179
+    }
+  },
+  "lighting": {
+    "area_m2": 38.6,
+    "required_lm_per_tube": {
+      "approach1|UF=0.4|MF=0.7": 3446.428571428571,
+      "approach1|UF=0.4|MF=0.8": 3015.6249999999995,
+      "approach1|UF=0.5|MF=0.7": 2757.142857142858,
+      "approach1|UF=0.5|MF=0.8": 2412.4999999999995,
+      "approach1|UF=0.6|MF=0.7": 2297.619047619048,
+      "approach1|UF=0.6|MF=0.8": 2010.4166666666667,
+      "approach2|UF=0.4|MF=0.7": 2954.081632653061,
+      "approach2|UF=0.4|MF=0.8": 2584.8214285714284,
+      "approach2|UF=0.5|MF=0.7": 2363.265306122449,
+      "approach2|UF=0.5|MF=0.8": 2067.8571428571427,
+      "approach2|UF=0.6|MF=0.7": 1969.387755102041,
+      "approach2|UF=0.6|MF=0.8": 1723.2142857142856
+    },
+    "approach1": {
+      "tubes": 12,
+      "watts": 288,
+      "lpd_w_per_m2": 7.461139896373057,
+      "area_m2": 38.6
+    },
+    "approach2": {
+      "tubes": 14,
+      "watts": 336,
+      "lpd_w_per_m2": 8.704663212435232,
+      "area_m2": 38.6
+    }
+  },
+  "lobby": {
+    "extra_w": 45,
+    "extra_i_design_a": 0.23478260869565218,
+    "ckt1_i_design_with_lobby_a": 1.7373913043478262
+  }
+}
