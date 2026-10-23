@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **BRAC University · Department of Electrical and Electronic Engineering**
-**EEE384 – Electrical Service Design · Spring 2026 · Section 01 · Group 02**
+**EEE384 – Electrical Service Design · Spring 2026 · Section 01**
 
 <p align="center">
   <img src="docs/figures/site_interior_ceiling.jpg" width="760" alt="Ceiling of the LASSET Lab showing the projector mount, suspended LED luminaires, ceiling fan and AC grille"/>
@@ -343,15 +343,15 @@ docs/figures/              site photos, CAD layouts, connection diagrams, charts
 
 ## 10. Authors, references, licence
 
-**Group 02, EEE384 Section 01, submitted 11 May 2026**
+**Contributors** (EEE384 Section 01, submitted 11 May 2026)
 
 | Member | Contribution (from the report) |
 |--------|--------------------------------|
-| Enamul Karim Ovi | AutoCAD Base Design, comparative analysis |
-| Intisar Ahmad | room survey, presentation slides, report writing |
-| MD Nabil Haque | circuit diagrams |
-| Ziya Mohammad Sayef Ullah | AutoCAD Design Approaches 1 and 2 |
-| Ahmed Sajid Rezwan | load calculations, SLD diagrams |
+| Enamul | AutoCAD Base Design, comparative analysis |
+| Intisar | room survey, presentation slides, report writing |
+| Nabil | circuit diagrams |
+| Ziya | AutoCAD Design Approaches 1 and 2 |
+| Sajid | load calculations, SLD diagrams |
 
 **References** (as listed in the report)
 
